@@ -1,16 +1,35 @@
-### Hi there 👋
+![root@Alien0ne](root.jpg)
 
-<!--
-**Alien0ne/Alien0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Narasimha Tiruveedula (Alien0ne)</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alien0ne&label=Profile%20views&color=0e75b6&style=flat" alt="alien0ne" /> </p>
+
+<h3>About me :</h3>
+<h4 align="left">I am Cybersecurity enthusiast from INDIA</h3>
+
+- 🔭 I’m currently working on [100-redteam-projects](https://github.com/Alien0ne/100-redteam-projects)
+
+- 📝 I regularly write articles on [https://alien0ne.github.io/blog/](https://alien0ne.github.io/blog/)
+
+- 📫 How to reach me **alienone988@gmail.com**
+
+<p align="center">
+<a href="https://github.com/Alien0ne">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alien0ne" alt="Github Streak Stats">
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" />
+<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" />
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg" />
+<img align="left" alt="Notepad++" width="26px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" />
+<img align="left" alt="Sublime" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/sublime.svg" />
