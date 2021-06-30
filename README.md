@@ -6,7 +6,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alien0ne&label=Profile%20views&color=0e75b6&style=flat" alt="alien0ne" /> </p>
 
 <h3>About me :</h3>
-<h4 align="left">I am Cybersecurity enthusiast from INDIA</h3>
+<h4 align="left">I am Cybersecurity enthusiast from INDIA.<br>
+  I have practical experience of
+pentesting, web hacking, networking and wireless hacking.<br>
+  I want to continue
+my career in cybersecurity, where I can apply my knowledge and skills to
+continually enhance myself.</h4>
 
 - 🔭 I’m currently working on [100-redteam-projects](https://github.com/Alien0ne/100-redteam-projects)
 
