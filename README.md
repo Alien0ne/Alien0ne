@@ -15,7 +15,7 @@ continually enhance myself.</h4>
 
 - 🔭 I’m currently working on [100-redteam-projects](https://github.com/Alien0ne/100-redteam-projects)
 
-- 📝 I regularly write articles on [My Blog](https://alien0ne.github.io/)
+- 📝 I regularly write articles on [My Blog](https://blog.alienone.in/)
 
 - 📫 How to reach me **alienone988@gmail.com**
 
